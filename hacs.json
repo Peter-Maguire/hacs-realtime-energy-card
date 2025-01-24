@@ -1,5 +1,5 @@
 {
   "name": "realtime-energy-card",
-  "render_readme": true,
-  "homeassistant": "2025.1.0"
+  "homeassistant": "2023.7.0",
+  "render_readme": true
 }
