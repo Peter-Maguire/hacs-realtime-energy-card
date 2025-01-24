@@ -76,4 +76,13 @@ class RealtimeEnergyCard extends HTMLElement {
     }
 }
 
+
+
 customElements.define("realtime-energy-card", RealtimeEnergyCard);
+
+window.customCards = window.customCards || [];
+window.customCards.push({
+    type: "realtime-energy-card",
+    name: "Realtime Energy Card",
+    description: "Realtime energy card",
+});
