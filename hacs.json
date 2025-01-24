@@ -2,5 +2,6 @@
   "name": "realtime-energy-card",
   "homeassistant": "2023.7.0",
   "render_readme": true,
+  "filenmae": "realtime-energy-card.js",
   "content-in-root": true
 }
